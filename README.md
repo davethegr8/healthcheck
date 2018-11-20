@@ -1,9 +1,9 @@
-# healthcheck
+# blabber-status
 
 a very simple healthcheck
 
 ```
-» node healthcheck.js --url https://github.com/davethegr8
+» npx blabber-status --url https://github.com/davethegr8
 2018-11-20T18:21:40.615Z https://github.com/davethegr8 200 OK
 2018-11-20T18:21:41.704Z https://github.com/davethegr8 200 OK
 2018-11-20T18:21:43.110Z https://github.com/davethegr8 200 OK
