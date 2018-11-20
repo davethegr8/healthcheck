@@ -1,0 +1,18 @@
+{
+  "name": "blabber-status",
+  "version": "0.0.1",
+  "bin": {
+    "blabber-status": "healthcheck.js"
+  },
+  "scripts": {
+    "start": "node healthcheck.js"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/davethegr8/healthcheck.git"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "node-fetch": "^2.3.0"
+  }
+}
