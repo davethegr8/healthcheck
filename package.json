@@ -12,7 +12,7 @@
     "url" : "https://github.com/davethegr8/healthcheck.git"
   },
   "dependencies": {
-    "minimist": "^1.2.3",
+    "minimist": "^1.2.6",
     "node-fetch": "^2.6.1"
   }
 }
